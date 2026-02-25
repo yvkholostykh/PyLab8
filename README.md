@@ -1,5 +1,3 @@
-# PyLab8
-PyLab8
 # Взаимодействие в WWW: анализ трафика и эксплуатация XSS с помощью Scapy
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
